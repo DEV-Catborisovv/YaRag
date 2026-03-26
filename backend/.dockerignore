@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+venv
+.venv
+.env
+.git
+.dockerignore
+Screenshots
+Sсreenshots
+tuning_results
+optuna_study.db
+gold_data_refined.json
+metrics_log.json
+benchmark_results.json
+*.log
